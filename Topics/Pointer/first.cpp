@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    int arr[] = { 1, 2 , 3 , 4 , 5 };
+
+    int* ptrr = arr +2 ;
+    cout<<ptrr<<endl;
+    cout<<(arr)  <<endl;
+    cout<< *(ptrr--)<<endl;
+    cout<<*(ptrr) << endl;
+    return 0;
+}

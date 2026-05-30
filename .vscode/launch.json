@@ -1,0 +1,110 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSort",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "CountCharcter",
+            "request": "launch",
+            "mainClass": "Hashing.CountCharcter",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SubSequenceSum",
+            "request": "launch",
+            "mainClass": "Recursion.SubSequenceSum",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SubSequence",
+            "request": "launch",
+            "mainClass": "Recursion.SubSequence",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "PrintNNumber",
+            "request": "launch",
+            "mainClass": "Recursion.PrintNNumber",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "PrintAllDivisor",
+            "request": "launch",
+            "mainClass": "PrintAllDivisor",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Basic_Math.Armstrong",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "String.Palindrome",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Basic_Math.Palindrome",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "Basic_Math.ReverseNumber",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "ReverseTriangle",
+            "request": "launch",
+            "mainClass": "Patterns.ReverseTriangle",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "RightAngleTriangle",
+            "request": "launch",
+            "mainClass": "Patterns.RightAngleTriangle",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "PatternSecond",
+            "request": "launch",
+            "mainClass": "Patterns.PatternSecond",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "name": "C++ Run (GDB)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
+            "preLaunchTask": "C/C++: g++.exe build active file"
+        }
+    ]
+}
