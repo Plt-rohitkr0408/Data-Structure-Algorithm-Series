@@ -13,7 +13,7 @@ public class QuickSort {
         int i = low;
         int j = high;
         while (i < j) {
-            while (arr[i] < arr[pivot] && i < j) {
+            while (arr[i] <= arr[pivot] && i < j) {
                 i++;
             }
             while (arr[j] > arr[pivot] && i < j) {
@@ -45,7 +45,6 @@ public class QuickSort {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }
-        System.out.println();
-        System.out.println("Sorted array.....");
+      
     }
 }

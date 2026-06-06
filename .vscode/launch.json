@@ -3,6 +3,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UnionArray",
+            "request": "launch",
+            "mainClass": "Array.UnionArray",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeroes",
+            "request": "launch",
+            "mainClass": "Array.MoveZeroes",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeroInEnd",
+            "request": "launch",
+            "mainClass": "Array.MoveZeroInEnd",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "RightRotateNIndex",
+            "request": "launch",
+            "mainClass": "Array.RightRotateNIndex",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "RightRotateArray",
+            "request": "launch",
+            "mainClass": "Array.RightRotateArray",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "RotateArrayUsingExtraArray",
+            "request": "launch",
+            "mainClass": "Array.RotateArrayUsingExtraArray",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "RotateArrayByNIndex",
+            "request": "launch",
+            "mainClass": "Array.RotateArrayByNIndex",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "RotateArrayByOnePlace",
+            "request": "launch",
+            "mainClass": "Array.RotateArrayByOnePlace",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "CheckSorted",
+            "request": "launch",
+            "mainClass": "Array.CheckSorted",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "LargestElement",
+            "request": "launch",
+            "mainClass": "Array.LargestElement",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Array.Basic",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
             "name": "QuickSort",
             "request": "launch",
             "mainClass": "Sorting.QuickSort",

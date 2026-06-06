@@ -15,7 +15,7 @@ This repository contains my Data Structures and Algorithms practice in Java.
 
 ## Language
 
-Java
+Java , C++
 
 ## Author
 
