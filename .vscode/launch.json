@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntersectionSortedElement",
+            "request": "launch",
+            "mainClass": "Array.IntersectionSortedElement",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
             "name": "UnionArray",
             "request": "launch",
             "mainClass": "Array.UnionArray",
