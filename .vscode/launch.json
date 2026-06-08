@@ -3,6 +3,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TakeandNotTakePrblm",
+            "request": "launch",
+            "mainClass": "Array.TakeandNotTakePrblm",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SubarraySum",
+            "request": "launch",
+            "mainClass": "Array.SubarraySum",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "XORofTwiceNumber",
+            "request": "launch",
+            "mainClass": "Array.XORofTwiceNumber",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "MaximunConsecutiveNumber",
+            "request": "launch",
+            "mainClass": "Array.MaximunConsecutiveNumber",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "Array.MissingNumber",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
             "name": "IntersectionSortedElement",
             "request": "launch",
             "mainClass": "Array.IntersectionSortedElement",
