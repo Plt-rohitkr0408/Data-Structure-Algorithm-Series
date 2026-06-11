@@ -3,6 +3,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumSubArraySum",
+            "request": "launch",
+            "mainClass": "Array.MaximumSubArraySum",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SortListByName",
+            "request": "launch",
+            "mainClass": "Array.SortListByName",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "Array.MajorityElement",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SortString",
+            "request": "launch",
+            "mainClass": "Array.SortString",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SortArray012",
+            "request": "launch",
+            "mainClass": "Array.SortArray012",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SortZeroAndOne",
+            "request": "launch",
+            "mainClass": "Array.SortZeroAndOne",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SortZeroOneTwo",
+            "request": "launch",
+            "mainClass": "Array.SortZeroOneTwo",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "TwoSumHashing",
+            "request": "launch",
+            "mainClass": "Array.TwoSumHashing",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
             "name": "TakeandNotTakePrblm",
             "request": "launch",
             "mainClass": "Array.TakeandNotTakePrblm",
