@@ -20,12 +20,16 @@ public class QuickSort {
                 j--;
             }
 
-            if(i<j){
-                swap(arr, i,j);
+            if (i < j) {
+                swap(arr, i, j);
             }
         }
 
-        swap(arr, i, pivot);
+        swap(arr, i-1, pivot);
+        for(int k: arr){
+            System.out.print(k+" ");
+        }
+        System.out.println();
         return i;
     }
 
@@ -38,13 +42,16 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 4, 6, 2, 5, 7, 9, 1, 3 };
+        int arr[] = { 4, 3, 1, 2, 5, 9, 7, 10, 6 };
         System.out.println("-----Quick sorting-----");
         int high = arr.length - 1;
         quick(arr, 0, high);
+
+
+        System.out.println("Result of quick sort");
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }
-      
+
     }
 }

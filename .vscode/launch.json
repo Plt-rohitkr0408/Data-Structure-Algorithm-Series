@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestConsecutiveSquence",
+            "request": "launch",
+            "mainClass": "Array.LongestConsecutiveSquence",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceElementWithGreatestElemet",
+            "request": "launch",
+            "mainClass": "Array.ReplaceElementWithGreatestElemet",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SumofTwoArray",
+            "request": "launch",
+            "mainClass": "Array.SumofTwoArray",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
             "name": "MaximumSubArraySum",
             "request": "launch",
             "mainClass": "Array.MaximumSubArraySum",
