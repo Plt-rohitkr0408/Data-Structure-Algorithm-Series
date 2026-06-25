@@ -3,6 +3,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreeSumZero",
+            "request": "launch",
+            "mainClass": "TWOD_ARRAY.ThreeSumZero",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "MajorityByThree",
+            "request": "launch",
+            "mainClass": "TWOD_ARRAY.MajorityByThree",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "PascalTriangle",
+            "request": "launch",
+            "mainClass": "TWOD_ARRAY.PascalTriangle",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "ContinousSubArraySum",
+            "request": "launch",
+            "mainClass": "TWOD_ARRAY.ContinousSubArraySum",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "SubArraySum",
+            "request": "launch",
+            "mainClass": "TWOD_ARRAY.SubArraySum",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "Spiral_Matrix",
+            "request": "launch",
+            "mainClass": "TWOD_ARRAY.Spiral_Matrix",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "Spiral_Matrix",
+            "request": "launch",
+            "mainClass": "Spiral_Matrix",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "RotateNintyDegree",
+            "request": "launch",
+            "mainClass": "Array.RotateNintyDegree",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "Sleeping",
+            "request": "launch",
+            "mainClass": "JavaProgramTesting.Sleeping",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
+            "name": "MultiThreading",
+            "request": "launch",
+            "mainClass": "JavaProgramTesting.MultiThreading",
+            "projectName": "Data_Structure_Series_e515d0de"
+        },
+        {
+            "type": "java",
             "name": "LongestConsecutiveSquence",
             "request": "launch",
             "mainClass": "Array.LongestConsecutiveSquence",

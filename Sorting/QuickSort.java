@@ -26,10 +26,6 @@ public class QuickSort {
         }
 
         swap(arr, i-1, pivot);
-        for(int k: arr){
-            System.out.print(k+" ");
-        }
-        System.out.println();
         return i;
     }
 
